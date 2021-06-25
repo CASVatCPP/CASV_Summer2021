@@ -1,0 +1,3 @@
+/home/casv/new-eclipse-workspace/CudaOnly/build/CMakeFiles/rebuild_cache.dir
+/home/casv/new-eclipse-workspace/CudaOnly/build/CMakeFiles/CudaOnly.dir
+/home/casv/new-eclipse-workspace/CudaOnly/build/CMakeFiles/edit_cache.dir
